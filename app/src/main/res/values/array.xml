@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_of_name">
+        <item>Иван</item>
+        <item>Артур</item>
+        <item>Петр</item>
+        <item>Николай</item>
+        <item>Руслан</item>
+        <item>Владислав</item>
+        <item>Леонид</item>
+        <item>Лев</item>
+        <item>Антон</item>
+        <item>Виктор</item>
+        <item>Ипатий</item>
+        <item>Анжела</item>
+        <item>Анита</item>
+        <item>Карина</item>
+        <item>Татьяна</item>
+        <item>Нина</item>
+        <item>Алеся</item>
+        <item>Яна</item>
+        <item>Валя</item>
+        <item>Лиза</item>
+        <item>Клаудия</item>
+        <item>Клава</item>
+
+    </string-array>
+
+
+
+</resources>
